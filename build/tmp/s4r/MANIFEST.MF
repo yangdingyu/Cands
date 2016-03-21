@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+provider: gradle
+Implementation-Url: http://incubator.apache.org/projects/s4.html
+Implementation-Version: unspecified
+Implementation-Vendor: Apache S4
+Implementation-Vendor-Id: s4app
+S4-App-Class: shortPath.spApp
+S4-Version: 0.6.0-incubating
+

@@ -1,0 +1,7 @@
+Mapfilepath=/home/dingyu/trafficdata/USA-road-NY-Metis-1500.txt
+partitionNumber=1500
+DataLength=2000
+QueryPath=/home/yangdy/trafficdata/query-1500
+QueryNumber=2
+OutputPath=/home/yangdy/trafficdata/result/shortestpath.txt
+SearchMethod=Baseline
